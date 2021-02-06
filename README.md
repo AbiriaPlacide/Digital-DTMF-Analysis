@@ -10,8 +10,8 @@ Uses Signal Processing techniques to determine numbers given DTMF keypad frequen
   - run -> python3 dtmf.py [filename.csv]
   
  ### Frequency Response
- 
+ ![alt text](https://github.com/AbiriaPlacide/Digital-DTMF-Analysis/blob/main/images/freqResponse.png)
  
  ### Spectrogram
- 
+ ![alt text](https://github.com/AbiriaPlacide/Digital-DTMF-Analysis/blob/main/images/spectrogram.png)
  
